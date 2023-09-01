@@ -20,9 +20,6 @@
   <a href="#caterpillar-identification">Coconut Caterpillar Identification</a>
 </p>
 
-<p align="center">
-  <img src="https://your-image-url.com/screenshot.png" alt="Screenshot">
-</p>
 
 
 ## Acknowledgments
