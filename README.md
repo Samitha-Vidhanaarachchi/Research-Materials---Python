@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="[https://your-image-url.com/your-logo.png](https://www.google.com/search?q=python+logo+png&tbm=isch&ved=2ahUKEwiYl7HF7YmBAxX33DgGHQeHAjsQ2-cCegQIABAA&oq=python+logo+png&gs_lcp=CgNpbWcQAzIHCAAQigUQQzIHCAAQigUQQzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEAUQHjoECCMQJ1C0BFjEDmD-D2gAcAB4AIABXogBvAOSAQE1mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=dRTyZNiIGPe54-EPh46K2AM&bih=707&biw=1536#imgrc=mqBw3tQHTtxxpM)" alt="Your Logo" width="200">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="200">
   <br>
   Awesome Image Processing Toolbox
   <br>
@@ -23,7 +23,6 @@
 <p align="center">
   <img src="https://your-image-url.com/screenshot.png" alt="Screenshot">
 </p>
-
 
 
 ## Acknowledgments
